@@ -1,0 +1,29 @@
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic);
+$font: 'Noto Sans';
+
+// Set some defaults
+h1, h2, h3, h4, h5, p, span {
+font-family: $font;
+font-weight: 400;
+line-height: 1.6875em;
+}
+
+$main-color: #3364a4;
+
+// Footnotes
+.footnotes {
+    ol {
+    }
+
+    li {
+        padding: .75em 1em ;
+        p {margin: 0;}
+        .reversefootnote {display: none;}
+    }
+
+    .highlight {
+        background-color: rgba($main-color, 0.2);
+        p {color: $main-color;}
+    }
+}

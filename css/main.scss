@@ -3,9 +3,20 @@
 ---
 @charset "utf-8";
 
-// Import partials from `sass_dir` (defaults to `_sass`)
+
+//
+
+// Settings
+$max-width: 860px;
+//
+
+
+
+
+// Import all of these last.
 @import
         "base",
         "layout",
+        "typography",
         "syntax-highlighting"
 ;
