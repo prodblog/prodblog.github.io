@@ -11,3 +11,5 @@ github_username:  robmerki
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+excerpt_separator: <!--more-->

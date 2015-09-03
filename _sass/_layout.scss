@@ -15,22 +15,21 @@ body {}
 .container {
     max-width: $max-width;
     margin: 0 auto;
+    @media (max-width: $max-width) {padding: 0 7px;}
 }
 //
 
-// Nav
-    nav {
-        a {
-            display: inline-block;
-            padding: .5em 0;
-            margin-right: 1em;
-        }
-
-    }
-//
 
 // Content
 .page-content, header, footer {
     width: 100%;
 }
+
+.page-content {
+    margin-bottom: 20px;
+}
 //
+
+footer  {
+    padding: 20px 0;
+}

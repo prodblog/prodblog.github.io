@@ -4,19 +4,23 @@
 @charset "utf-8";
 
 
-//
+
 
 // Settings
-$max-width: 860px;
+$font-size: 18px;
+
+$max-width: 680px;
+
+$main-color: #1551aa;
+$secondary-color: #2e3541;
+$tertiary-color: #dadada;
 //
-
-
-
 
 // Import all of these last.
 @import
-        "base",
-        "layout",
         "typography",
+        "layout",
+        "base",
         "syntax-highlighting"
 ;
+//

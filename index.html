@@ -4,20 +4,21 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+    <a href="{{ site.baseurl }}"><h1 class="page-heading">Robert Merki's Blog</h1></a>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <ul class="post-link">
+        {% for post in site.posts %}
+        <li>
+            <h1>
+                <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h1>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            {{ post.excerpt }}
+            <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read More &#8594;</a>
+        </li>
+        {% endfor %}
+    </ul>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
