@@ -1,0 +1,21 @@
+// Header
+.site-header {
+    border-bottom: 1px solid $light-grey;
+    margin: 20px 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.hero-text {
+    color: $blue;
+    font-size: 1em;
+    font-weight: 800;
+    font-family: $sans;
+
+
+    &:hover {
+        text-decoration: none;
+        .logo {color: $magenta}
+    }
+}
+//

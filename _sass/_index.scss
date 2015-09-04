@@ -1,0 +1,31 @@
+
+// < Post Links >
+// (list of excerpts on the front page)
+// .post-link is basically a <ul>
+.post-link {
+    li {
+        list-style-type: none;
+        border-bottom: 1px solid $light-grey;
+        margin-top: 20px;
+        &:first-of-type{margin-top: 0;}
+        &:last-of-type{border: none;}
+    }
+    .footnotes {display: none;} //hide footnotes --> would prefer not to generate them, but Jekyll has an issue here so this is the best I can do for now :)
+    sup {display: none;} //hide footnote links
+    p {
+        margin-top: 1em;
+        color: $dark-grey;
+        font-family: $serif;
+        font-weight: 400;
+        line-height: 1.6875em;
+        margin-bottom: 1.36em;
+    }
+}
+
+.readmore {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+// </ Post Links >

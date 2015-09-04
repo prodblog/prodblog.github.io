@@ -7,15 +7,23 @@ $serif: 'Lora';
 body {
     font-size: $font-size;
 }
-// Headings
+// < Headings >
 h1 {
     font-family: $sans;
     color: $dark-grey;
     a {color: $dark-grey;}
 }
 
+h2 {
+    font-family: $sans;
+    color: $dark-grey;
+    font-size: 1.2em;
+    a {color: $dark-grey;}
+}
+// </ Headings >
 
 
+// < Links >
 a {
     color: $blue;
     text-decoration: none;
@@ -24,63 +32,4 @@ a {
         color: lighten($blue, 15%);
     }
 }
-
-
-// Paragraphs
-.post-content p {
-    color: $dark-grey;
-
-    font-family: $serif;
-    font-weight: 400;
-    line-height: 1.6875em;
-    margin-bottom: 1.36em;
-    sup {
-        line-height: 0;
-        text-decoration: underline;
-        margin: 0 1px;
-    }
-
-    a {
-        color: $blue;
-        &:hover{color: lighten($blue, 10%)}
-    }
-}
-//
-
-// Footnotes
-.footnotes {
-    ol {
-        padding-left: 40px;
-    }
-
-    li {
-        padding: .75em 1em ;
-        font-family: $serif;
-        p {
-            margin: 0;
-        }
-        .reversefootnote {display: none;}
-    }
-
-    .highlight {
-        background-color: rgba($blue, 0.2);
-        p {color: $blue;}
-    }
-}
-//
-
-
-.site-footer {
-
-    .description {
-        font-family: $serif;
-        font-size: 14px;
-        transform: 1s color;
-        color: $dark-grey;
-        &:hover {
-            color: $blue;
-        }
-    }
-
-
-}
+// </ Links >

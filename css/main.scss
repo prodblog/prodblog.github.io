@@ -3,14 +3,9 @@
 ---
 @charset "utf-8";
 
-
-
-
 // Settings
 $font-size: 18px;
-
 $max-width: 680px;
-
 $blue: #1551aa;
 $dark-grey: #2e3541;
 $light-grey: #dadada;
@@ -21,6 +16,10 @@ $magenta: #ff009c;
 @import
         "typography",
         "layout",
+        "header",
+        "footer",
+        "index",
+        "blogposts",
         "base",
         "syntax-highlighting"
 ;
