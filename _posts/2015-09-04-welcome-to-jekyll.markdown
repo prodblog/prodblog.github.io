@@ -6,14 +6,8 @@ categories: meta
 ---
 
 
-I rebuilt my personal website in May after a talk with [Boris Mann](http://twitter.com/bmann). A few months later, I realized my site was severely lacking a blog. Sure, I built it on Jekyll[^Jekyll], but I found that the site I built sucked for blogging. I moved everything over to Medium, but my site was built on Jekyll. That makes no sense. After speaking with some more smart people, they told me to blog a lot. Medium wasn't quite working for me. So now I am back with a much simpler Jekyll blog!
+I rebuilt my personal website in May after a talk with [Boris Mann](http://twitter.com/bmann). I asked him how to become a good product person. He told me that the holy trinity of marketing, product, and development is very closely tied together. Each vertex has it's own set of problems, solutions, and best practices, but nothing is truly isolated. In order to become great at product, I needed to learn the entire triangle. How does that conclusion tie in to blogging? And don't I already have a blog?
+<!--more-->
+Yes I already have a blog, but the site I built became a portfolio first and a blog second. Furthermore, I will start blogging what I learn, which will make me learn more. That's all.
 
-I'm going to start blogging for real. I have had a bunch of experience[^Test] this summer doing a lot of weird and cool things, like squatting 1.6x my bodyweight after a knee injury, or bench pressing 1.1x my bodyweight after a shoulder injury. I also spent some time pursuing venture capital jobs with zero luck. Spoke with some more VCs after that and they told me being a low level numbers guy at a VC firm is not a great path. I really like product anyway!
-
-Also I'm learning Ruby on Rails which is something I should write about (since you learn a lot by teaching others). Have some ideas in my head that I would like to share and I think there is a lot to gain/explore by posting them publically.
-
-This was the first post, it's time to make a super simple theme and throw my existing portfolio onto an "about" page.
-
-[^Jekyll]: Jekyll is a blogging platform based on a flatfile architecture. Basically I generate the blog on my computer and upload the static HTML files instead of a server fetching dynamic content for each viewer!
-
-[^Test]: Kek
+So what am I learning? What is the purpose of this blog? Two things. I'm going to show off what I create with Ruby on Rails. Second, I'm going to talk product with people. Eventually these two worlds will collide and I will have a strong comprehension of Rails development combined with a large body of knowledge with regards to product!
