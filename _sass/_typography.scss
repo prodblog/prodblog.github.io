@@ -68,3 +68,19 @@ a {
     }
 }
 //
+
+
+.site-footer {
+
+    .description {
+        font-family: $serif;
+        font-size: 14px;
+        transform: 1s color;
+        color: $dark-grey;
+        &:hover {
+            color: $blue;
+        }
+    }
+
+
+}
