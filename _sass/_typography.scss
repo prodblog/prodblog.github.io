@@ -10,26 +10,26 @@ body {
 // Headings
 h1 {
     font-family: $sans;
-    color: $secondary-color;
-    a {color: $secondary-color;}
+    color: $dark-grey;
+    a {color: $dark-grey;}
 }
 
 
 
 a {
-    color: $main-color;
+    color: $blue;
     text-decoration: none;
     &:hover {
         text-decoration: underline;
-        color: lighten($main-color, 15%);
+        color: lighten($blue, 15%);
     }
 }
 
 
 // Paragraphs
 .post-content p {
-    color: $secondary-color;
-    
+    color: $dark-grey;
+
     font-family: $serif;
     font-weight: 400;
     line-height: 1.6875em;
@@ -41,8 +41,8 @@ a {
     }
 
     a {
-        color: $main-color;
-        &:hover{color: lighten($main-color, 10%)}
+        color: $blue;
+        &:hover{color: lighten($blue, 10%)}
     }
 }
 //
@@ -63,8 +63,8 @@ a {
     }
 
     .highlight {
-        background-color: rgba($main-color, 0.2);
-        p {color: $main-color;}
+        background-color: rgba($blue, 0.2);
+        p {color: $blue;}
     }
 }
 //

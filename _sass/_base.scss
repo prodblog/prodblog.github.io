@@ -1,15 +1,30 @@
-// Nav
-    nav {
-        a {
-            display: inline-block;
-            padding: .5em 0;
-            margin-right: 1em;
-            font-family: $sans;
-            font-size: .75em;
+// header
+.site-header {
+    border-bottom: 1px solid $light-grey;
+    margin: 20px 0;
+    padding-bottom: 20px;
 
-        }
+}
 
+.page-heading {
+    display: inline-block;
+    color: $blue;
+    font-size: 1em;
+    font-weight: 800;
+    font-family: $sans;
+    .logo {
+        color: $dark-grey;
+        font-family: Times;
+        font-style: normal;
+        font-weight: 400;
+        transition: .5s color;
     }
+        &:hover {
+            text-decoration: none;
+            .logo {color: $magenta}
+        }
+}
+//
 
     .site-title {
         @media (max-width: $max-width) {width: 100%; text-align: center;}
@@ -20,17 +35,19 @@
 // Post Header
 .post-header {
     margin-bottom: 1em;
+
 }
 .post-meta {
     color: #888;
     text-rendering: optimizeLegibility;
     margin-bottom: 0;
+    font-size: .85em;
     line-height: 1.6875em;
 }
 
 // Footer
  footer {
-     border-top: 1px solid $tertiary-color;
+     border-top: 1px solid $light-grey;
      li {
          display: inline-block;
          padding: .5em 0 20px;
@@ -45,19 +62,14 @@
 
      }
  }
-.page-heading {
-    border-bottom: 1px solid $tertiary-color;
-    margin: 20px 0;
-    padding-bottom: 20px;
-    color: $main-color;
-    font-size: 1em;
-}
+
 
 .post-link {
     li {list-style-type: none;}
     .footnotes {display: none;}
     p {
-        color: $secondary-color;
+        margin-top: 1em;
+        color: $dark-grey;
         font-family: $serif;
         font-weight: 400;
         line-height: 1.6875em;
