@@ -1,23 +1,25 @@
 ---
 layout: post
-title:  "World of Warcraft & Color"
-date:   2015-09-04 10:00:00
+title: "World of Warcraft & Color"
+date: {}
 categories: design
+published: true
 ---
 
-I played World of Warcraft (WoW) when I was a teenager. While most of it was a complete waste of time, there have been a few positives that came out of playing Blizzard Entertainment's multiplayer behemoth. Before the game finally fades away[^wow-dying], I wanted to take a look at how Blizzard used color in a very simple way to produce one of the best interfaces in gaming. This post is a key design lesson from World of Warcraft.
+
+I played World of Warcraft (WoW) when I was a teenager. While most of it was a complete waste of time, there have been a few positives that came out of playing Blizzard Entertainment's multiplayer behemoth. Before the game finally fades away[^wow-dying], I wanted to take a look at how Blizzard used color in a very simple way to popularize a significant feature in interface design. This post is a lesson in interface color usage from World of Warcraft.
 
 ![World of Warcraft](/assets/img/wow/wow.jpg)
 <!--more-->
 
 ##Color Coded Quality
- In WoW and other online role playing games, finding or buying rare items is a core part of the game. Each item has a certain quality. It might be a high amount of armor that an item provides, or maybe it just looks really cool. That's where Color Coded Quality comes in. Also known as [item rarity](http://www.giantbomb.com/color-coded-loot/3015-4702/), Color Coded Quality is a quick way for players to check how good their items are. It's not a very complicated design element, but it's one rarely seen in interfaces.
+ In WoW and other online role playing games, finding or buying rare items is a core part of the experience. Each item has a certain quality, rarity, and thus value. An item might provide a high amount of armor or maybe it just looks really cool. That's where Color Coded Quality comes in. Also known as [item rarity](http://www.giantbomb.com/color-coded-loot/3015-4702/), Color Coded Quality is a quick way for players to check how valuable their items are. It's not a very complicated design element, but it's one not used enough in interfaces.
 
  Look at this example:
 
  ![Inventory Example](/assets/img/wow/wowinv.png)
 
- While this particular user's inventory seems like a mess, it's pretty easy to identify which items are higher value than the others just by referring to the very intuitive color key:
+ While this particular user's inventory is very cluttered, it's pretty easy to identify which items are higher value than the others just by referring to the very intuitive color key:
 <htmL>
 <div style="width: 100%; background-color: #292b2f; text-align: center; padding: 1em; font-family: Noto Sans">
     <span style="color:#9d9d9d; margin-right: 6px; text-shadow: 1px 1px black">Poor </span>
@@ -41,16 +43,16 @@ Of the few companies that do use this approach, only a small number use it in th
 
 ![Genius.com - White Profile](/assets/img/wow/genius.png)
 
-There is room for improvement with Genius, but in general the site does a very good job at highlighting valued contributors. One thing that bothers me is how weak Eminem's color is. Maybe I'm just used to WoW's color key, but green seems a bit too light to give one of the best rappers alive.
+Within a glance you can tell which users have more IQ points without actually reading the number. Even Eminem contributes to the website and has a decent (green) color for his profile.
 
 ![Google's newest email service](/assets/img/wow/inbox.png)
 
 Google's newest email interface, [Inbox](www.inbox.google.com/), introduced smart filtering for emails. Promotions get tucked away and conversations between coworkers or friends are prominent. The use of color here is only within category icons. A few icons does not effectively display information about the content behind the subject lines.
 
-Considering the technology behind Inbox, I am disappointed that Google hasn't done more to include some form of Color Coded Quality. There is a huge amount of potential here and I hope Google takes a long look at their interface.
+Considering the technology behind Inbox, I am disappointed that Google hasn't done more to include some form of Color Coded Quality. There is a huge amount of potential here and I hope Google takes a long look at their interface. Think about how easy email would be if you just had color levels for email importance!
 
 ##The Future of Color
-Products today rarely use color effectively. It's very easy to launch a product with one color and call it "flat". I personally will be paying a lot more attention to the use of color in future products, and will probably shamelessly steal the famous color key from World of Warcraft.
+Products today rarely use color effectively. It's very easy to launch a product with one color and call it "flat". I personally will be paying a lot more attention to the use of color in future products, and will probably shamelessly steal the famous color key from World of Warcraft when I design something in the future.
 
 Disregarding the color spectrum is a mistake. Use it well and use it wisely.
 
