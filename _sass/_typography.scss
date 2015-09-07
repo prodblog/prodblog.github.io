@@ -11,14 +11,23 @@ body {
 h1 {
     font-family: $sans;
     color: $dark-grey;
-    a {color: $dark-grey;}
+    line-height: 1em;
+    a {
+        color: $dark-grey;
+        &:hover{
+            color: $blue;
+            text-decoration: none;
+        }
+    }
 }
 
 h2 {
     font-family: $sans;
     color: $dark-grey;
     font-size: 1.2em;
-    a {color: $dark-grey;}
+    a {
+        color: $dark-grey;
+    }
 }
 // </ Headings >
 
@@ -27,6 +36,7 @@ h2 {
 a {
     color: $blue;
     text-decoration: none;
+    transition: .1s color;
     &:hover {
         text-decoration: underline;
         color: lighten($blue, 15%);

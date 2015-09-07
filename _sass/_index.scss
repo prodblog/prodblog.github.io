@@ -3,6 +3,7 @@
 // (list of excerpts on the front page)
 // .post-link is basically a <ul>
 .post-link {
+
     li {
         list-style-type: none;
         border-bottom: 1px solid $light-grey;
@@ -13,7 +14,6 @@
     .footnotes {display: none;} //hide footnotes --> would prefer not to generate them, but Jekyll has an issue here so this is the best I can do for now :)
     sup {display: none;} //hide footnote links
     p {
-        margin-top: 1em;
         color: $dark-grey;
         font-family: $serif;
         font-weight: 400;

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "World of Warcraft & Color"
-date: {}
+date: 2015-09-04 10:00:00
 categories: design
-published: true
 ---
 
 
