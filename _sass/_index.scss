@@ -4,6 +4,11 @@
 // .post-link is basically a <ul>
 .post-link {
 
+    a {
+        text-decoration: underline;
+        &.post-title,&.readmore{text-decoration: none;}
+    }
+
     li {
         list-style-type: none;
         border-bottom: 1px solid $light-grey;

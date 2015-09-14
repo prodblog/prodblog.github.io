@@ -17,6 +17,7 @@
     }
 
     a {
+        text-decoration: underline;
         color: $blue;
         &:hover{color: lighten($blue, 10%)}
     }
@@ -26,6 +27,14 @@
 
 // < footnotes >
 .footnotes {
+
+    border-top: 1px solid $light-grey;
+    padding-top: 1em;
+    
+    .reversefootnote {
+        text-decoration: none;
+    }
+
     ol {
         padding-left: 40px;
         margin-bottom: 1em;
