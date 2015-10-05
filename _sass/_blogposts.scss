@@ -1,3 +1,30 @@
+.post-content {
+    h1 {}
+    h2 {}
+    h3 {
+        font-family: $sans;
+        color: $dark-grey;
+        margin: 0 0 1.36em 0;
+
+    }
+    blockquote {
+        padding-left: 20px;
+        border-left: 5px solid $blue;
+        transition: .2s all;
+        &:hover {
+            border-left: 5px solid $magenta;
+            p {color: $magenta;}
+        }
+        p {
+            transition: .2s all;
+            font-family: inherit;
+            font-family: $sans;
+            font-weight: 700;
+            font-style: italic;
+            color: $blue;
+        }
+    }
+}
 // < Paragraphs >
 .post-content p {
     color: $dark-grey;
@@ -21,23 +48,36 @@
         color: $blue;
         &:hover{color: lighten($blue, 10%)}
     }
+
+
+
+    img {
+        cursor: pointer;
+    }
+}
+
+.post-content ol,.post-item ol {
+        // these are things like numbered bullet points
+        padding-left: 40px;
+        margin-bottom: 1.36em;
+        font-family: $serif;
+        color: $dark-grey;
 }
 // </ Paragraphs >
-
 
 // < footnotes >
 .footnotes {
 
     border-top: 1px solid $light-grey;
     padding-top: 1em;
-    
+
     .reversefootnote {
         text-decoration: none;
     }
 
     ol {
         padding-left: 40px;
-        margin-bottom: 1em;
+        margin-bottom: 2em;
     }
 
     li {

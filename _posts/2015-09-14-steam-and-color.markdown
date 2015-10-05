@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Steam, Microtransactions, & Color"
+title: "Color Part 2: Steam Inventory"
 date: 2015-09-14 10:00:00
 categories: design
 ---
-[Valve Software](http://www.valvesoftware.com) launched the Steam game platform back in 2003. It was initially terrible, but Valve kept pushing update after update. Now Steam is the most widely used PC gaming platform on Earth (and *much* less terrible).
-
 ![Steam Logo](/assets/img/steam/steam_logo.png)
+
+[Valve Software](http://www.valvesoftware.com) launched the Steam game platform back in 2003. It was initially terrible, but Valve kept pushing update after update. Now Steam is the most widely used PC gaming platform on Earth (and *much* less terrible).
 
 Since 2003, Valve has released several games and sequels. Within the last few years, their latest addition to the Counter-Strike franchise, dubbed "Global Offensive", has exploded in popularity. While the game itself costs around $15, Valve makes most of its money through microtransactions. Each weapon in Counter-Strike: Global Offensive (CS:GO) has an array of aesthetic "skins" that change the look and feel of the weapon while not affecting performance. Valve also operates a trading platform on Steam which has created a closed, virtual economy on their gaming platform.
 <!--more-->
@@ -27,7 +27,7 @@ While gun skins in CS:GO have a high value due to aesthetics and/or rarity, many
 At a simple glance, just as in a World of Warcraft inventory, you can see the approximate tier of value that your items falls under by simply looking at its color. Compare the CS:GO skin color key and the image below:
 
 <html>
-<div style="width: 100%; background-color: #292b2f; text-align: center; padding: 1em; font-family: Noto Sans">
+<div style="width: 100%; background-color: #141517; text-align: center; padding: 1em; font-family: Noto Sans">
     <span style="color:#c0c0c0; margin-right: 6px; text-shadow: 1px 1px black">Consumer Grade </span>
     <span style="color:#99ccff; margin-right: 6px; text-shadow: 1px 1px black">Industrial Grade </span>
     <span style="color:#0000ff; margin-right: 6px; text-shadow: 1px 1px black">Mil-spec </span>

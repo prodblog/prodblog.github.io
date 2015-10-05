@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "World of Warcraft & Color"
+title: "Color Part 1: World of Warcraft"
 date: 2015-09-04 10:00:00
 categories: design
 ---
-
+![World of Warcraft](/assets/img/wow/wow.jpg)
 
 I played World of Warcraft (WoW) when I was a teenager. While most of it was a complete waste of time, there have been a few positives that came out of playing Blizzard Entertainment's multiplayer behemoth. Before the game finally fades away[^wow-dying], I wanted to take a look at how Blizzard used color in a very simple way to popularize a significant feature in interface design. This post is a lesson in interface color usage from World of Warcraft.
 
-![World of Warcraft](/assets/img/wow/wow.jpg)
 <!--more-->
 
 ##Color Coded Quality

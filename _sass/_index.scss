@@ -9,7 +9,7 @@
         &.post-title,&.readmore{text-decoration: none;}
     }
 
-    li {
+    .post-item {
         list-style-type: none;
         border-bottom: 1px solid $light-grey;
         margin-top: 20px;
@@ -25,6 +25,31 @@
         line-height: 1.6875em;
         margin-bottom: 1.36em;
     }
+    ol {
+        padding-left: 40px;
+        li {
+            border: none;
+        }
+    }
+
+    blockquote {
+        padding-left: 20px;
+        border-left: 5px solid $blue;
+        transition: .2s all;
+        &:hover {
+            border-left: 5px solid $magenta;
+            p {color: $magenta;}
+        }
+        p {
+            transition: .2s all;
+            font-family: inherit;
+            font-family: $sans;
+            font-weight: 700;
+            font-style: italic;
+            color: $blue;
+        }
+    }
+
 }
 
 .readmore {
