@@ -23,7 +23,7 @@ Zack Kassian's story is anything but unique. You're an all-star in a small Canad
 
 Drinks, drugs, late nights. None of that makes you a better player.
 
-You start waking up later and later. You never show up on time. You're performance starts dipping. You look a little tired. People notice.
+You start waking up later and later. You never show up on time. Your performance starts dipping. You look a little tired. People notice.
 
 I distinctly remember the buzz around Vancouver when Zack Kassian was acquired from the Buffalo Sabres in exchange for Cody Hodgson. Yeah we lost a promising young sniper but we gained what we thought was the next big power forward in the NHL. I remember jumping up and down every time Kass would get it together for a few games and start hitting, shooting, and scoring. The entire city was cheering for him.
 
@@ -39,7 +39,7 @@ Sometimes young, great players make it far enough to reach great success while s
 
 I wonder how many Steve Jobs, Elizabeth Holmes, or Elon Musks we lost in the juniors. Many of these people had tough upbringings, and surely none of them had access to >$500,000/year at the age of 18. Still, you have to wonder how many Einsteins went down the wrong path.
 
-There's probably a reason why 25% of new companies are started by immigrants.[^immigrants] I think that has to do with a tougher on average upbringing and access to less boredom. I grew up with immigrant parents as well and was always pushed to do a bit more and work a little hard. Many immigrant families don't have cultural desire or economic ability to party a lot. I think the "juniors" of immigrant children is a life of hard work and the constant drive socioeconomic improvement. That breeds more success than privilege does. It's not unlikely that we've lost a few unicorns[^unicorn] because of a youth that just a bit too wild, a bit to close to drugs, or a bit too much early stardom.
+There's probably a reason why 25% of new companies are started by immigrants.[^immigrants] I think that has to do with a tougher on average upbringing and access to less boredom. I grew up with immigrant parents as well and was always pushed to do a bit more and work a little harder. Many immigrant families don't have cultural desire or economic ability to party a lot. I think the "juniors" of immigrant children is a life of hard work and the constant drive for socioeconomic improvement. That breeds more success than privilege does. It's not unlikely that we've lost a few unicorns[^unicorn] because of a youth that was just a bit too wild, a bit too close to drugs, or a bit too much early stardom.
 
 I think the next innovation is going to be in longer term education for young people. School is not good enough.
 
