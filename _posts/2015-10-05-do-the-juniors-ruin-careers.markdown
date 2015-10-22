@@ -23,7 +23,7 @@ Zack was touted as the next big power forward in the NHL and that never came tru
 
 Zack Kassian's time in the juniors is anything but unique. You're an all-star in a small Canadian town playing in front of the entire population every night. You're a local hero. You're at every party. You're a king. It's easy to acquire bad party habit.
 
-I think we've all seen the type of people. Absolute king of the party. Surrounded by their "crew". For some reason humans love to arrange these social hierarchies where the successful athlete with who makes bad decisions is at the top.
+I think we've all seen the type of people. Absolute king of the party. Surrounded by their "crew". For some reason humans love to arrange these social hierarchies where the successful athlete who makes bad decisions is at the top.
 
 I distinctly remember the buzz around Vancouver when Zack Kassian was acquired from the Buffalo Sabres in exchange for Cody Hodgson. Yeah we lost a promising young sniper but we gained what we thought was the next big power forward in the NHL. I remember jumping up and down every time Kass would get it together for a few games and start hitting, shooting, and scoring. The entire city exploded when he had a good game. Unfortunately he suffered from wild swings of inconsistency.
 
