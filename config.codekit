@@ -590,6 +590,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/social\/apps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 770658,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/social\/apps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/social\/apps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/steam\/case.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -721,6 +732,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/development\/do-the-juniors-ruin-careers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/entrepreneurship\/stop-fixing-boredom\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/stop-fixing-boredom\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1154,6 +1174,17 @@
 		"initialSize": 163741,
 		"inputAbbreviatedPath": "\/assets\/img\/juniors\/truck.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/juniors\/truck.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/social\/apps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 770658,
+		"inputAbbreviatedPath": "\/assets\/img\/social\/apps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/social\/apps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
