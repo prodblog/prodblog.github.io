@@ -601,6 +601,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/social\/selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 337741,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/social\/selfie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/social\/selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/steam\/case.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1185,6 +1196,17 @@
 		"initialSize": 770658,
 		"inputAbbreviatedPath": "\/assets\/img\/social\/apps.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/social\/apps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/social\/selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 337741,
+		"inputAbbreviatedPath": "\/assets\/img\/social\/selfie.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/social\/selfie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

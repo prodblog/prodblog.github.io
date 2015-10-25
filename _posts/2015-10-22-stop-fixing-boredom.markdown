@@ -20,6 +20,8 @@ What is "not-boredom"? It's that feeling you get when you're mindless browsing. 
 
 I keep meeting aspiring entrepreneurs who have come up with some crazy new idea for a social app. Social apps can be a powerful tool[^arabspring], but we're oversaturated. Just count how many different apps you have that all have a separate timeline, inbox, notification feed, and friend tab. How many timelines do you scroll in a day? How many do you really care about?
 
+![Selfie Girls](/assets/img/social/selfie.jpg)
+
 Let's build something better than a new social app. The next game changing company probably isn't going to be a social media product. Even if you do get lucky and build the next Snapchat, is that really going to leave a dent in the universe?
 
 Next time you're in public look at how people use their smartphone. The vast majority of people are using the pinnacle of modern engineering to turn their brain off while scrolling some feed in some app. We can do better.
