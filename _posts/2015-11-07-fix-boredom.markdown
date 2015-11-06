@@ -16,7 +16,7 @@ A lot of apps are actually great. Reddit allows me to read the opinions and thou
 
 Part of my point still stands from my last post. I think the way we use social media (stupid apps!) needs more discipline and a better end goal. There is very little difference in effort between clicking on Instagram and clicking on the Kindle app, but the impact is large over time. One of them opens up a feed of corporate sponsored photos ([native advertising](https://www.quora.com/How-do-I-get-products-or-brands-to-sponsor-me-on-Instagram)) and the other lets you read a book. Instagram is a great app, but it's easy to get lost in the endless scrolling habit that many people get into. It takes the tiniest amount of effort to open that Kindle app and read a book. The same goes for habits once you're inside of an app. If you're on Reddit, think about how much effort it takes it takes you to read about a new scientific discovery rather than just mindlessly browsing funny cat pictures or videos. Not a huge amount of effort, but it's detectable.
 
-![Ralphie](/assets/img/social2/Ralphie.jpg)
+![Ralphie](/assets/img/social2/ralphie.jpg)
 
 I have a feeling that the Next Big Thing in apps will have elements of inherent discipline or conscious learning within their interface. [ProductHunt](www.producthunt.com) is getting it somewhat right as the site is makes it fun to discover the best in new tech, books, games, and podcasts. With ProductHunt, I feel like I learn something every time, even if it is minuscule or ultimately not important.
 
