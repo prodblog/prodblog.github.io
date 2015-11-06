@@ -612,6 +612,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/social2\/header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17300,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/social2\/header.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/social2\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/social2\/ralphie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21779,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/social2\/ralphie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/social2\/ralphie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/steam\/case.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -743,6 +765,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/development\/do-the-juniors-ruin-careers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/entrepreneurship\/fix-boredom\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/fix-boredom\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1207,6 +1238,28 @@
 		"initialSize": 337741,
 		"inputAbbreviatedPath": "\/assets\/img\/social\/selfie.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/social\/selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/social2\/header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16470,
+		"inputAbbreviatedPath": "\/assets\/img\/social2\/header.png",
+		"outputAbbreviatedPath": "\/assets\/img\/social2\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/social2\/ralphie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21779,
+		"inputAbbreviatedPath": "\/assets\/img\/social2\/ralphie.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/social2\/ralphie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
