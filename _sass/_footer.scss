@@ -1,24 +1,32 @@
 // Footer
- footer {
-     border-top: 1px solid $light-grey;
-     text-align: center;
-     li {
-         display: inline-block;
-         padding: .5em 0 20px;
-         margin-right: 1em;
-         font-family: $sans;
-         font-size: .75em;
+footer {
+    border-top: 1px solid $light-grey;
+    text-align: center;
+    .email-updates {
+        text-align: center;
+        display: block;
+        font-family: $serif;
+        font-size: .75em;
+        padding-bottom: 10px;
+        a {color: $magenta;}
+    }
+    li {
+        display: inline-block;
+        padding: 0.5em 0 20px;
+        margin-right: 1em;
+        font-family: $sans;
+        font-size: 0.75em;
+    }
+    .description {
+        font-family: $sans;
+        font-size: 0.9em;
+        color: $light-grey;
+        font-family: $serif;
+        font-size: 14px;
+        transition: 1s color;
+        &:hover {
+            color: $magenta;
+        }
+    }
 
-     }
-     .description {
-         font-family: $sans;
-         font-size: .9em;
-         color: $light-grey;
-         font-family: $serif;
-         font-size: 14px;
-         transition: 1s color;
-         &:hover {
-             color: $magenta;
-         }
-     }
- }
+}
