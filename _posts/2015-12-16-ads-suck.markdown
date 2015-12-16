@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Who clicks on ads?"
+date: 2015-12-16 19:00:00
+categories: marketing
+---
+
+![South Parks on Ads!](/assets/img/whoclicks/southpark.jpg)
+
+I can’t believe how many big corporations are built upon a foundation of selling advertising space. Facebook, Google, Twitter. When was the last time you clicked an ad? When was the last time you used one of Google, Facebook, or Twitter? I know it’s hard to convince people to pay you money online. I also know that basically the entire consumer internet is based on selling your data and throwing ads at you. If we didn’t have this model, how would corporations build products that let us connect?
+
+<!--more-->
+
+The free market always finds a way to solve consumers problems. We wanted to connect and share cat photos so we got Facebook. We wanted to search the internet so we got Google. We wanted to talk about the turkey sandwich we just ate so we got Twitter. Each firm found a revenue model by selling little boxes of sponsored content in between the content you care about. What if advertising didn’t exist? Would the free market ever find a solution to Google serving us free content while still making money?
+
+I have an image where every firm is forced to sale you a premium subscription to be part of the action. A few companies have started doing this, but the model is as old as the internet itself.
+
+World of Warcraft started selling subscription based access back in 2004 and has made over [$10b since](http://www.businessinsider.com/here-are-the-top-10-highest-grossing-video-games-of-all-time-2012-6?op=1). How many Silicon Valley companies can boast those kind of numbers?
+
+[LaunchTicker](http://www.launchticker.com/), founded in 2012, has started selling $100/year subscriptions to it’s news aggregation app and is boasting over 1,000 customers already. Pretty good numbers for something you that could have been yet-another-free-app.
+
+Are we slowly moving to a world where everything we do is small subscription? Probably not yet. But I think everyone passionately hates ads. I have been on the internet since I was 10 years old and have never clicked purposely on an ad. People are increasingly finding clever ways of embedding advertising or even including it in their content via native ads. I can’t see how this model stays sustainable for the next decade. As always the free market will find an equilibrium.
