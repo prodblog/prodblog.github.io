@@ -5,7 +5,7 @@ date: 2015-12-16 19:00:00
 categories: marketing
 ---
 
-![South Parks on Ads!](/assets/img/ads/southpark.jpg)
+![South Parks on Ads!](/assets/img/whoclicks/southpark.jpg)
 
 I can’t believe how many big corporations are built upon a foundation of selling advertising space. Facebook, Google, Twitter. When was the last time you clicked an ad? When was the last time you used one of Google, Facebook, or Twitter? I know it’s hard to convince people to pay you money online. I also know that basically the entire consumer internet is based on selling your data and throwing ads at you. If we didn’t have this model, how would corporations build products that let us connect?
 
