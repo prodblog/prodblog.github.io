@@ -9,7 +9,7 @@ categories: entrepreneurship
 
 Would you hire an author to write that book idea you had? Would you hire a musician to release an album under your name? Probably not. Why would you hire a developer to build your life's work?
 
-I once did a web design project for a "startup” that consisted of six "ideas" people and exactly zero programmers. These six people decided the best path to success was to throw thousands of dollars at an outsourced “coder” in another continent to build their "billion dollar app". Then, to “make it look good”, they hired me to do all of the front-end web design work. I ended up charging way less than I should have, but I was new at freelancing and didn't know better. I many spent hours refactoring the garbage PHP their “coder” threw together. As you can guess, the “startup” didn’t go anywhere.
+I once did a web design project for a "startup” that consisted of six "ideas" people and exactly zero programmers. These six people decided the best path to success was to throw thousands of dollars at an outsourced “coder” in another continent to build their "billion dollar app". Then, to “make it look good”, they hired me to do all of the front-end web design work. I ended up charging way less than I should have, but I was new at freelancing and didn't know better. I spent many hours refactoring the garbage PHP their “coder” threw together. As you can guess, the “startup” didn’t go anywhere.
 
 <!--more-->
 
