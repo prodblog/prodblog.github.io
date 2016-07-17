@@ -1,0 +1,31 @@
+---
+layout: post
+title: "I work X hours/week."
+date: 2017-07-17 12:00:00
+categories: thoughts
+---
+
+![Elon Musk](/assets/img/work/elonmusk.jpg)
+
+I've always wondered how people calculate their weekly work hours. Motivational Instagram posts and Elon Musk Quora answers remind us that if you're not working 100 hours per week, you're not Beast Mode, bro. But what does it mean when people say they work 100 hours?
+
+<!--more-->
+
+## "Anything over 40 hours is too much"
+I do not believe that working 40 hours every week is enough to accomplish big goals. Even the least efficient person on Earth could do more work given extra time. Many have [argued](http://www.inc.com/jessica-stillman/why-working-more-than-40-hours-a-week-is-useless.html) against working more than 40 hours every week because productivity and morale drops.
+
+I think in general, over large groups of workers, working more than 9–5 for 5 days in a row is bad for productivity. But I would also argue that "work" is not a boolean variable – completely equivalent across industries. Motivations and returns on productivity are much different for manual laborors versus technology CEOs. Some people have an inner motivation to accomplish something – this motivation makes their work not feel like work. I doubt Elon Musk looks at his watch and eagarly waits the end of the work day. I am sure that when Mr. Musk consistently works every day, all day, he is thinking about the end results of his actions and the next steps in a plan, as opposed to Is It Time To Go Home Yet.
+
+## What counts as work?
+So when Elon Musk works ["100 hours per week"](https://www.quora.com/How-did-Elon-Musk-work-for-100-hours-a-week-for-more-than-15-years) what does that really mean? How the hell do you even count such a thing?
+
+Does this count commuting time? If you work 14 hours per day and sleep 6 hours, that means you have 4 non-work hours in a day. Is this where commuting time comes in to play? What about flights. Have I successfully "worked" 10 hours on a flight to Europe, or does that subtract from my total Work time for the week? Or perhaps Work on happens if I'm on my laptop on a flight.[^flight]
+
+Or maybe Work is just non-leisure time. Perhaps a flight – because it's a flight towards more Work – counts as Work due to its purpose. In that case, does exercise count? What if excercising contributes to your mental health,  and therefore performance? Oh also – do you count lunch in to the Work time? What about coffee time? What about bathroom time? Or do we all just completely exagerate our Work hours so we can post badass quotes on Instagram overlaid on top of a picture of a badass lion to significy how badass we really are?
+
+## Who the hell cares.
+It actually doesn't matter how many hours you work each week at all. The only boolean variable in this equation is if you actually care about what you're doing. If you do care – then you're devoting your life to that goal and the rest is just details, friction, and laundry. If you clock out and stop thinking about your career after 5pm on a Friday, you just have a job.
+
+Counting hours is dumb.
+
+[^flight]: But maybe some people have long legs and they can't open their laptops on airplanes because the little tray tables are too short and the seats in front of them too long. In that case only shorter limbed people can work on planes, and us tall long limbed humans unfortunately lose productivity time on airplanes. But at least the airline was able to put an extra row in so their CEO could get a great quarterly result published. Honestly if you're a CEO who does this I want you to sit in one of those seats and see how it feels. That's what happens when you're completely out of touch with reality. At some people you have to realize that no – you're not in the money generating and scalping business. You're in the airline business. Part of your job if making sure people get to where they want to go, and part of your job is making sure the experience is good. When you make people extremely uncomfortable just so you can get a few extra bucks, it means you're an out of touch CEO and you do not understand your product. It's not evil – it's just ignorant. You sit there in a chair and pull a lever and you honestly think in the bottom of your heart that you're smart and that the extra few bucks you get is totally your win. You're not winning though – shitty experiences will catch up to your business.
