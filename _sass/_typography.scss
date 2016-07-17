@@ -44,3 +44,18 @@ a {
     }
 }
 // </ Links >
+
+// < Lists >
+ul {
+    list-style-position: inside;
+    list-style-type: disc;
+    font-family: $serif;
+    padding-left: 5px;
+    margin-bottom: 1.36em;
+
+}
+li {
+    padding: 3px 0;
+
+}
+// </ Lists>
