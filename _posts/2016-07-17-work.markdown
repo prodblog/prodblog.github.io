@@ -12,14 +12,14 @@ I've always wondered how people calculate their weekly work hours. Motivational 
 <!--more-->
 
 ## "Anything over 40 hours is too much"
-I do not believe that working 40 hours every week is enough to accomplish big goals. Even the least efficient person on Earth could do more work given extra time. Many have [argued](http://www.inc.com/jessica-stillman/why-working-more-than-40-hours-a-week-is-useless.html) against working more than 40 hours every week because productivity and morale drops.
+I do not believe that working 40 hours every week is enough to accomplish big goals. Even the most efficient person on Earth could do more work given extra time. Many have [argued](http://www.inc.com/jessica-stillman/why-working-more-than-40-hours-a-week-is-useless.html) against working more than 40 hours every week because productivity and morale drops.
 
 I think in general, over large groups of workers, working more than 9–5 for 5 days in a row is bad for productivity. But I would also argue that "work" is not a boolean variable – completely equivalent across industries. Motivations and returns on productivity are much different for manual laborors versus technology CEOs. Some people have an inner motivation to accomplish something – this motivation makes their work not feel like work. I doubt Elon Musk looks at his watch and eagarly waits the end of the work day. I am sure that when Mr. Musk consistently works every day, all day, he is thinking about the end results of his actions and the next steps in a plan, as opposed to Is It Time To Go Home Yet.
 
 ## What counts as work?
 So when Elon Musk works ["100 hours per week"](https://www.quora.com/How-did-Elon-Musk-work-for-100-hours-a-week-for-more-than-15-years) what does that really mean? How the hell do you even count such a thing?
 
-Does this count commuting time? If you work 14 hours per day and sleep 6 hours, that means you have 4 non-work hours in a day. Is this where commuting time comes in to play? What about flights. Have I successfully "worked" 10 hours on a flight to Europe, or does that subtract from my total Work time for the week? Or perhaps Work on happens if I'm on my laptop on a flight.[^flight]
+Does this count commuting time? If you work 14 hours per day and sleep 6 hours, that means you have 4 non-work hours in a day. Is this where commuting time comes in to play? What about flights. Have I successfully "worked" 10 hours on a flight to Europe, or does that subtract from my total Work time for the week? Or perhaps Work only happens if I'm on my laptop on a flight.[^flight]
 
 Or maybe Work is just non-leisure time. Perhaps a flight – because it's a flight towards more Work – counts as Work due to its purpose. In that case, does exercise count? What if excercising contributes to your mental health,  and therefore performance? Oh also – do you count lunch in to the Work time? What about coffee time? What about bathroom time? Or do we all just completely exagerate our Work hours so we can post badass quotes on Instagram overlaid on top of a picture of a badass lion to significy how badass we really are?
 
