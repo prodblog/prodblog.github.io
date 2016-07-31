@@ -731,6 +731,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/useless\/smug.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48345e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/useless\/smug.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/useless\/smug.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/whoclicks\/southpark.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -738,6 +749,17 @@
 		"initialSize": 105206,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/whoclicks\/southpark.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/whoclicks\/southpark.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/work\/elonmusk.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94440,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/work\/elonmusk.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/work\/elonmusk.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -786,11 +808,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/books\/gravitys-rainbow\/index.html": {
+	"\/_site\/books\/gravitys-rainbow.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/books\/gravitys-rainbow\/index.html",
+		"inputAbbreviatedPath": "\/_site\/books\/gravitys-rainbow.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -804,56 +826,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/design\/steam-and-color\/index.html": {
+	"\/_site\/design\/steam-and-color.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/design\/steam-and-color\/index.html",
+		"inputAbbreviatedPath": "\/_site\/design\/steam-and-color.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/design\/world-of-warcraft-and-color\/index.html": {
+	"\/_site\/design\/world-of-warcraft-and-color.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/design\/world-of-warcraft-and-color\/index.html",
+		"inputAbbreviatedPath": "\/_site\/design\/world-of-warcraft-and-color.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/development\/do-the-juniors-ruin-careers\/index.html": {
+	"\/_site\/development\/do-the-juniors-ruin-careers.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/development\/do-the-juniors-ruin-careers\/index.html",
+		"inputAbbreviatedPath": "\/_site\/development\/do-the-juniors-ruin-careers.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/entrepreneurship\/fix-boredom\/index.html": {
+	"\/_site\/entrepreneurship\/fix-boredom.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/fix-boredom\/index.html",
+		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/fix-boredom.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/entrepreneurship\/go-build-it\/index.html": {
+	"\/_site\/entrepreneurship\/go-build-it.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/go-build-it\/index.html",
+		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/go-build-it.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/entrepreneurship\/stop-fixing-boredom\/index.html": {
+	"\/_site\/entrepreneurship\/stop-fixing-boredom.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/stop-fixing-boredom\/index.html",
+		"inputAbbreviatedPath": "\/_site\/entrepreneurship\/stop-fixing-boredom.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -889,29 +911,29 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/marketing\/ads-suck\/index.html": {
+	"\/_site\/marketing\/ads-suck.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/marketing\/ads-suck\/index.html",
+		"inputAbbreviatedPath": "\/_site\/marketing\/ads-suck.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/marketing\/why-most-people-hate-the-gym\/index.html": {
+	"\/_site\/marketing\/why-most-people-hate-the-gym.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/marketing\/why-most-people-hate-the-gym\/index.html",
+		"inputAbbreviatedPath": "\/_site\/marketing\/why-most-people-hate-the-gym.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/misc\/employee-draft\/index.html": {
+	"\/_site\/misc\/employee-draft.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/misc\/employee-draft\/index.html",
+		"inputAbbreviatedPath": "\/_site\/misc\/employee-draft.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -925,11 +947,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/thoughts\/work\/index.html": {
+	"\/_site\/thoughts\/useless.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/thoughts\/work\/index.html",
+		"inputAbbreviatedPath": "\/_site\/thoughts\/useless.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/thoughts\/work.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/thoughts\/work.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1450,6 +1481,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/useless\/smug.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48345e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/useless\/smug.png",
+		"outputAbbreviatedPath": "\/assets\/img\/useless\/smug.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/whoclicks\/southpark.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1460,6 +1502,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/assets\/img\/work\/elonmusk.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94440,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/elonmusk.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/work\/elonmusk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/work\/Page not found · GitHub Pages.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/img\/work\/Page not found · GitHub Pages.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/img\/wow\/genius.png": {
 		"fileType": 32768,
