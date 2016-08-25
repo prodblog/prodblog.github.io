@@ -588,6 +588,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/ij\/ij.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.09441e+06,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/ij\/ij.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/ij\/ij.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/juniors\/kass.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -813,6 +824,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/books\/gravitys-rainbow.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/books\/IJ.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/books\/IJ.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1338,6 +1358,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/ij\/ij.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.09441e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/ij\/ij.png",
+		"outputAbbreviatedPath": "\/assets\/img\/ij\/ij.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/juniors\/kass.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1513,15 +1544,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/assets\/img\/work\/Page not found · GitHub Pages.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/img\/work\/Page not found · GitHub Pages.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/assets\/img\/wow\/genius.png": {
 		"fileType": 32768,
